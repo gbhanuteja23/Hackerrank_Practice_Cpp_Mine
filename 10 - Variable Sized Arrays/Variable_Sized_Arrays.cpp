@@ -1,3 +1,7 @@
+//Q Link:-
+//https://www.hackerrank.com/challenges/variable-sized-arrays/problem
+
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
